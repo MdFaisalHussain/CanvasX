@@ -1,2 +1,2 @@
 # CanvasX
-CanvasX is Libra to create 2d games in js
+CanvasX is Simple Library to create 2d games in js
